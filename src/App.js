@@ -1,7 +1,7 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import ToDo from './App Folder/ToDo'
+import ToDo from './Components/ToDo'
 
 
 
